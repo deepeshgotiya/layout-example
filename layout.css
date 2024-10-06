@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  padding-top: 20px;
+  display: flex;
+  background-color: black;
+  color: white;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.links{
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
