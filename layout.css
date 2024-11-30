@@ -19,3 +19,8 @@ header{
   flex-direction: row;
   gap: 2rem;
 }
+
+
+.main-content{
+  background-color: brown;
+}
